@@ -22,7 +22,7 @@
 		ngpios = <8>;
 	};
 };
-oo/////....,,,hhhhhkkkkvvvddcccc aarstarst
+
 / {
 	chosen {
 		zmk,kscan = &kscan0;
